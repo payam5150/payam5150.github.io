@@ -1,11 +1,11 @@
 # Site settings
-author: Payam abbasi
-title: 
+author: Payam Abbasi
+title: Grab a cup of coffee, sit back, relax and enjoy my blogs....
 header-img: img/home-bg.png
 email: payamabbasi@yahoo.com
-copyright_name: Payam abbasi
+copyright_name: Payam Abbasi
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Payam's Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  payam5150
