@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Visualization Technique"
-date:       2020-04-02 00:01:15 +0000
+title:      "Visualization Technique."
+date:       2020-04-01 20:01:16 -0400
 permalink:  visualization_technique
 ---
 
