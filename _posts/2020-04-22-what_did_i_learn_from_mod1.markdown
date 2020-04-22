@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "What Did I Learn From MOD1"
+date:       2020-04-22 20:48:21 +0000
+permalink:  what_did_i_learn_from_mod1
+---
+
+
+To be honest, when I first looked at the Mod 1 project, I did not know if I could get it done. I mean, I knew how to present it and I knew what I wanted to do but the technical side looked like a monster to me. I thought to myself, who am I kidding? Unlike most of my classmates, I come from a business background. How am I ever going to tackle this monster? Often, I was afraid to even turn the computer on because the codes gave me anxiety. Just looking at them, it looked as if a new dimension had opened up and I was trying to break the codes of law. I was fortunate enough to have an amazing support team. A team who did not judge me for my lack of knowledge in programming. An instructor who pushed me every Monday to keep at it until it was done. I attended group meetings. I watched many youtube videos. I spoke to friends around me until one day, things started to click. I used to wake up at 3am every morning with anxiety but my wake ups turned into excitements. WOW, things are starting to click! Maybe this monster is not as bad as it seemed. So, what did I learn from Mod 1? Besides finally learning how to web scrape, analyze data and build pretty little graphs? I learned that you don’t have to be great to start but you have to start to be great. I learned to reach out to friends if I am in need of help. I learned that when I see a huge set of codes, not to be afraid of it and instead, smile, sit, read each line of code one by one and understand what it is doing. When you break it down, it becomes a lot easier. I am still fresh in this program and have a lot to learn but I feel as the Mod 1 put a positive pressure on me to keep learning and learning. 
